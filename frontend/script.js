@@ -1,5 +1,5 @@
 // адрес твоего бэкенда
-const apiBase = "http://127.0.0.1:8000";
+const apiBase = "https://teleton-tap-backend.onrender.com";
 
 function getUserIdFromUrl() {
   const params = new URLSearchParams(window.location.search);
